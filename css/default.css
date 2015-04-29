@@ -1,0 +1,20 @@
+#container {
+	width: 1300px;
+}
+
+
+#spaceimage{
+    display: inline-block;
+}
+
+#portfolio{
+    width: 1270px;
+}
+
+#port{
+    position: relative;
+    left: 400px;
+}
+
+
+/* this is where all of your CSS styles go */
